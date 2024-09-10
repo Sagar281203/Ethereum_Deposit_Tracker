@@ -1,0 +1,874 @@
+2024-09-10 23:14:35,478 - logger - INFO - Fetching deposits from block 0x13c2c8d to 0x13c3074...
+2024-09-10 23:14:35,879 - logger - INFO - Fetched 13 logs from blocks 0x13c2c8d to 0x13c3074.
+2024-09-10 23:14:36,694 - logger - INFO - Deposit Found:
+2024-09-10 23:14:36,695 - logger - INFO - Block Number: 20720918
+2024-09-10 23:14:36,695 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:14:36,695 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:14:36,695 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:14:36,695 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:14:36,695 - logger - INFO - ----------------------------------------
+2024-09-10 23:14:37,838 - logger - INFO - Deposit Found:
+2024-09-10 23:14:37,839 - logger - INFO - Block Number: 20720918
+2024-09-10 23:14:37,839 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:14:37,839 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:14:37,839 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:14:37,839 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:14:37,839 - logger - INFO - ----------------------------------------
+2024-09-10 23:14:39,142 - logger - INFO - Deposit Found:
+2024-09-10 23:14:39,142 - logger - INFO - Block Number: 20720918
+2024-09-10 23:14:39,142 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:14:39,142 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:14:39,143 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:14:39,143 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:14:39,143 - logger - INFO - ----------------------------------------
+2024-09-10 23:14:40,058 - logger - INFO - Deposit Found:
+2024-09-10 23:14:40,058 - logger - INFO - Block Number: 20721042
+2024-09-10 23:14:40,058 - logger - INFO - Block Timestamp: 1725981383
+2024-09-10 23:14:40,058 - logger - INFO - Transaction Hash: 741852c12a1026a3e5012e57a1c6f0bcaa8622ee25796176d6d30e2f47e85278
+2024-09-10 23:14:40,058 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:14:40,058 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:14:40,058 - logger - INFO - ----------------------------------------
+2024-09-10 23:14:40,879 - logger - INFO - Deposit Found:
+2024-09-10 23:14:40,879 - logger - INFO - Block Number: 20721100
+2024-09-10 23:14:40,879 - logger - INFO - Block Timestamp: 1725982091
+2024-09-10 23:14:40,879 - logger - INFO - Transaction Hash: f751cb6d8c5575aa1fb01ef204eed405a0bf9963fb6a900e83f3446c3254e7fe
+2024-09-10 23:14:40,879 - logger - INFO - Sender Address (Pubkey): 0x8c3dF0b519382B65437aD8CaC60607355785Fe54
+2024-09-10 23:14:40,879 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:14:40,879 - logger - INFO - ----------------------------------------
+2024-09-10 23:14:41,678 - logger - INFO - Deposit Found:
+2024-09-10 23:14:41,679 - logger - INFO - Block Number: 20721243
+2024-09-10 23:14:41,679 - logger - INFO - Block Timestamp: 1725983807
+2024-09-10 23:14:41,679 - logger - INFO - Transaction Hash: f914b7fd1abf3bde73b03bfc1a402793e5fc1aa23bc8a4a015c0a8b91a6d6e7f
+2024-09-10 23:14:41,679 - logger - INFO - Sender Address (Pubkey): 0xCbf91D30177dca1E71C2a9a29BE1a1bA40B02dcF
+2024-09-10 23:14:41,679 - logger - INFO - Amount (Fee): 5.0 Ether
+2024-09-10 23:14:41,679 - logger - INFO - ----------------------------------------
+2024-09-10 23:14:42,575 - logger - INFO - Deposit Found:
+2024-09-10 23:14:42,575 - logger - INFO - Block Number: 20721255
+2024-09-10 23:14:42,575 - logger - INFO - Block Timestamp: 1725983951
+2024-09-10 23:14:42,576 - logger - INFO - Transaction Hash: 6cf1e4fa105e13a668498189e373080e8042cc17c2981b60da8c6879eb3c887f
+2024-09-10 23:14:42,576 - logger - INFO - Sender Address (Pubkey): 0x3D0EE3b5524Bf0A8C0a48df7471dFC82CeA1053c
+2024-09-10 23:14:42,576 - logger - INFO - Amount (Fee): 22.487863447401434 Ether
+2024-09-10 23:14:42,576 - logger - INFO - ----------------------------------------
+2024-09-10 23:14:43,398 - logger - INFO - Deposit Found:
+2024-09-10 23:14:43,398 - logger - INFO - Block Number: 20721326
+2024-09-10 23:14:43,398 - logger - INFO - Block Timestamp: 1725984803
+2024-09-10 23:14:43,399 - logger - INFO - Transaction Hash: d67dda89e11d7628d7ba636a36fd125abf231864e05123a086e075dd393b0d6d
+2024-09-10 23:14:43,399 - logger - INFO - Sender Address (Pubkey): 0xC44b7316936E2F004E688fD53a95e060Df1811C3
+2024-09-10 23:14:43,399 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:14:43,399 - logger - INFO - ----------------------------------------
+2024-09-10 23:14:44,339 - logger - INFO - Deposit Found:
+2024-09-10 23:14:44,340 - logger - INFO - Block Number: 20721373
+2024-09-10 23:14:44,340 - logger - INFO - Block Timestamp: 1725985379
+2024-09-10 23:14:44,340 - logger - INFO - Transaction Hash: 260237901af82e1e9a0d093470a804905fc6656f95ed21a04e867a391da25e70
+2024-09-10 23:14:44,340 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:14:44,340 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:14:44,340 - logger - INFO - ----------------------------------------
+2024-09-10 23:14:45,251 - logger - INFO - Deposit Found:
+2024-09-10 23:14:45,251 - logger - INFO - Block Number: 20721441
+2024-09-10 23:14:45,251 - logger - INFO - Block Timestamp: 1725986195
+2024-09-10 23:14:45,251 - logger - INFO - Transaction Hash: 9c24de4938dbba390c4b32689557074fe70cc9031b825802f93a5d80a38654c9
+2024-09-10 23:14:45,251 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:14:45,251 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:14:45,251 - logger - INFO - ----------------------------------------
+2024-09-10 23:14:46,091 - logger - INFO - Deposit Found:
+2024-09-10 23:14:46,091 - logger - INFO - Block Number: 20721484
+2024-09-10 23:14:46,091 - logger - INFO - Block Timestamp: 1725986711
+2024-09-10 23:14:46,091 - logger - INFO - Transaction Hash: a54c616cb3166551de0cba462394babbee016effde43b36a016d8dad99473f4d
+2024-09-10 23:14:46,091 - logger - INFO - Sender Address (Pubkey): 0xB708009fA39467935FA56EDc89C1e6072403c22f
+2024-09-10 23:14:46,091 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:14:46,091 - logger - INFO - ----------------------------------------
+2024-09-10 23:14:46,928 - logger - INFO - Deposit Found:
+2024-09-10 23:14:46,928 - logger - INFO - Block Number: 20721639
+2024-09-10 23:14:46,929 - logger - INFO - Block Timestamp: 1725988571
+2024-09-10 23:14:46,929 - logger - INFO - Transaction Hash: ee740fa68dbc6c587fc03f85782246c244c1863cf3797aa70e8036e60409a3ce
+2024-09-10 23:14:46,929 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:14:46,929 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:14:46,929 - logger - INFO - ----------------------------------------
+2024-09-10 23:14:47,665 - logger - INFO - Deposit Found:
+2024-09-10 23:14:47,665 - logger - INFO - Block Number: 20721640
+2024-09-10 23:14:47,665 - logger - INFO - Block Timestamp: 1725988583
+2024-09-10 23:14:47,666 - logger - INFO - Transaction Hash: aba86377b06a128893ac8ab44754e7ad296a59b39e4628a9afebc6e841263d6a
+2024-09-10 23:14:47,666 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:14:47,666 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:14:47,666 - logger - INFO - ----------------------------------------
+2024-09-10 23:14:47,669 - logger - INFO - Updated ./logs/deposit_logs.json with 13 new deposits.
+2024-09-10 23:16:22,670 - logger - INFO - Fetching deposits from block 0x13c2c96 to 0x13c307d...
+2024-09-10 23:16:23,040 - logger - INFO - Fetched 13 logs from blocks 0x13c2c96 to 0x13c307d.
+2024-09-10 23:16:23,715 - logger - INFO - Deposit Found:
+2024-09-10 23:16:23,715 - logger - INFO - Block Number: 20720918
+2024-09-10 23:16:23,715 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:16:23,715 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:16:23,715 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:16:23,715 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:16:23,715 - logger - INFO - ----------------------------------------
+2024-09-10 23:16:24,368 - logger - INFO - Deposit Found:
+2024-09-10 23:16:24,368 - logger - INFO - Block Number: 20720918
+2024-09-10 23:16:24,368 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:16:24,368 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:16:24,368 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:16:24,368 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:16:24,368 - logger - INFO - ----------------------------------------
+2024-09-10 23:16:25,189 - logger - INFO - Deposit Found:
+2024-09-10 23:16:25,189 - logger - INFO - Block Number: 20720918
+2024-09-10 23:16:25,189 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:16:25,190 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:16:25,190 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:16:25,190 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:16:25,190 - logger - INFO - ----------------------------------------
+2024-09-10 23:16:25,918 - logger - INFO - Deposit Found:
+2024-09-10 23:16:25,918 - logger - INFO - Block Number: 20721042
+2024-09-10 23:16:25,918 - logger - INFO - Block Timestamp: 1725981383
+2024-09-10 23:16:25,918 - logger - INFO - Transaction Hash: 741852c12a1026a3e5012e57a1c6f0bcaa8622ee25796176d6d30e2f47e85278
+2024-09-10 23:16:25,918 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:16:25,918 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:16:25,918 - logger - INFO - ----------------------------------------
+2024-09-10 23:16:26,578 - logger - INFO - Deposit Found:
+2024-09-10 23:16:26,578 - logger - INFO - Block Number: 20721100
+2024-09-10 23:16:26,578 - logger - INFO - Block Timestamp: 1725982091
+2024-09-10 23:16:26,578 - logger - INFO - Transaction Hash: f751cb6d8c5575aa1fb01ef204eed405a0bf9963fb6a900e83f3446c3254e7fe
+2024-09-10 23:16:26,578 - logger - INFO - Sender Address (Pubkey): 0x8c3dF0b519382B65437aD8CaC60607355785Fe54
+2024-09-10 23:16:26,578 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:16:26,578 - logger - INFO - ----------------------------------------
+2024-09-10 23:16:27,293 - logger - INFO - Deposit Found:
+2024-09-10 23:16:27,294 - logger - INFO - Block Number: 20721243
+2024-09-10 23:16:27,294 - logger - INFO - Block Timestamp: 1725983807
+2024-09-10 23:16:27,294 - logger - INFO - Transaction Hash: f914b7fd1abf3bde73b03bfc1a402793e5fc1aa23bc8a4a015c0a8b91a6d6e7f
+2024-09-10 23:16:27,294 - logger - INFO - Sender Address (Pubkey): 0xCbf91D30177dca1E71C2a9a29BE1a1bA40B02dcF
+2024-09-10 23:16:27,294 - logger - INFO - Amount (Fee): 5.0 Ether
+2024-09-10 23:16:27,295 - logger - INFO - ----------------------------------------
+2024-09-10 23:16:27,972 - logger - INFO - Deposit Found:
+2024-09-10 23:16:27,973 - logger - INFO - Block Number: 20721255
+2024-09-10 23:16:27,973 - logger - INFO - Block Timestamp: 1725983951
+2024-09-10 23:16:27,973 - logger - INFO - Transaction Hash: 6cf1e4fa105e13a668498189e373080e8042cc17c2981b60da8c6879eb3c887f
+2024-09-10 23:16:27,973 - logger - INFO - Sender Address (Pubkey): 0x3D0EE3b5524Bf0A8C0a48df7471dFC82CeA1053c
+2024-09-10 23:16:27,973 - logger - INFO - Amount (Fee): 22.487863447401434 Ether
+2024-09-10 23:16:27,973 - logger - INFO - ----------------------------------------
+2024-09-10 23:16:28,692 - logger - INFO - Deposit Found:
+2024-09-10 23:16:28,692 - logger - INFO - Block Number: 20721326
+2024-09-10 23:16:28,692 - logger - INFO - Block Timestamp: 1725984803
+2024-09-10 23:16:28,692 - logger - INFO - Transaction Hash: d67dda89e11d7628d7ba636a36fd125abf231864e05123a086e075dd393b0d6d
+2024-09-10 23:16:28,692 - logger - INFO - Sender Address (Pubkey): 0xC44b7316936E2F004E688fD53a95e060Df1811C3
+2024-09-10 23:16:28,693 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:16:28,693 - logger - INFO - ----------------------------------------
+2024-09-10 23:16:29,414 - logger - INFO - Deposit Found:
+2024-09-10 23:16:29,415 - logger - INFO - Block Number: 20721373
+2024-09-10 23:16:29,415 - logger - INFO - Block Timestamp: 1725985379
+2024-09-10 23:16:29,415 - logger - INFO - Transaction Hash: 260237901af82e1e9a0d093470a804905fc6656f95ed21a04e867a391da25e70
+2024-09-10 23:16:29,415 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:16:29,415 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:16:29,416 - logger - INFO - ----------------------------------------
+2024-09-10 23:16:30,106 - logger - INFO - Deposit Found:
+2024-09-10 23:16:30,106 - logger - INFO - Block Number: 20721441
+2024-09-10 23:16:30,107 - logger - INFO - Block Timestamp: 1725986195
+2024-09-10 23:16:30,107 - logger - INFO - Transaction Hash: 9c24de4938dbba390c4b32689557074fe70cc9031b825802f93a5d80a38654c9
+2024-09-10 23:16:30,107 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:16:30,107 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:16:30,107 - logger - INFO - ----------------------------------------
+2024-09-10 23:16:30,823 - logger - INFO - Deposit Found:
+2024-09-10 23:16:30,823 - logger - INFO - Block Number: 20721484
+2024-09-10 23:16:30,823 - logger - INFO - Block Timestamp: 1725986711
+2024-09-10 23:16:30,823 - logger - INFO - Transaction Hash: a54c616cb3166551de0cba462394babbee016effde43b36a016d8dad99473f4d
+2024-09-10 23:16:30,823 - logger - INFO - Sender Address (Pubkey): 0xB708009fA39467935FA56EDc89C1e6072403c22f
+2024-09-10 23:16:30,823 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:16:30,823 - logger - INFO - ----------------------------------------
+2024-09-10 23:16:31,517 - logger - INFO - Deposit Found:
+2024-09-10 23:16:31,517 - logger - INFO - Block Number: 20721639
+2024-09-10 23:16:31,517 - logger - INFO - Block Timestamp: 1725988571
+2024-09-10 23:16:31,517 - logger - INFO - Transaction Hash: ee740fa68dbc6c587fc03f85782246c244c1863cf3797aa70e8036e60409a3ce
+2024-09-10 23:16:31,517 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:16:31,517 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:16:31,517 - logger - INFO - ----------------------------------------
+2024-09-10 23:16:32,171 - logger - INFO - Deposit Found:
+2024-09-10 23:16:32,171 - logger - INFO - Block Number: 20721640
+2024-09-10 23:16:32,171 - logger - INFO - Block Timestamp: 1725988583
+2024-09-10 23:16:32,171 - logger - INFO - Transaction Hash: aba86377b06a128893ac8ab44754e7ad296a59b39e4628a9afebc6e841263d6a
+2024-09-10 23:16:32,172 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:16:32,172 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:16:32,172 - logger - INFO - ----------------------------------------
+2024-09-10 23:16:32,174 - logger - INFO - Updated ./logs/deposit_logs.json with 13 new deposits.
+2024-09-10 23:17:32,512 - logger - INFO - Fetching deposits from block 0x13c2c96 to 0x13c307d...
+2024-09-10 23:17:32,920 - logger - INFO - Fetched 13 logs from blocks 0x13c2c96 to 0x13c307d.
+2024-09-10 23:17:33,644 - logger - INFO - Deposit Found:
+2024-09-10 23:17:33,644 - logger - INFO - Block Number: 20720918
+2024-09-10 23:17:33,644 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:17:33,644 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:17:33,644 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:17:33,644 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:17:33,644 - logger - INFO - ----------------------------------------
+2024-09-10 23:17:34,319 - logger - INFO - Deposit Found:
+2024-09-10 23:17:34,319 - logger - INFO - Block Number: 20720918
+2024-09-10 23:17:34,319 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:17:34,319 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:17:34,319 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:17:34,319 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:17:34,319 - logger - INFO - ----------------------------------------
+2024-09-10 23:17:34,939 - logger - INFO - Deposit Found:
+2024-09-10 23:17:34,939 - logger - INFO - Block Number: 20720918
+2024-09-10 23:17:34,939 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:17:34,940 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:17:34,940 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:17:34,940 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:17:34,940 - logger - INFO - ----------------------------------------
+2024-09-10 23:17:35,655 - logger - INFO - Deposit Found:
+2024-09-10 23:17:35,655 - logger - INFO - Block Number: 20721042
+2024-09-10 23:17:35,655 - logger - INFO - Block Timestamp: 1725981383
+2024-09-10 23:17:35,655 - logger - INFO - Transaction Hash: 741852c12a1026a3e5012e57a1c6f0bcaa8622ee25796176d6d30e2f47e85278
+2024-09-10 23:17:35,655 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:17:35,655 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:17:35,655 - logger - INFO - ----------------------------------------
+2024-09-10 23:17:36,430 - logger - INFO - Deposit Found:
+2024-09-10 23:17:36,430 - logger - INFO - Block Number: 20721100
+2024-09-10 23:17:36,430 - logger - INFO - Block Timestamp: 1725982091
+2024-09-10 23:17:36,430 - logger - INFO - Transaction Hash: f751cb6d8c5575aa1fb01ef204eed405a0bf9963fb6a900e83f3446c3254e7fe
+2024-09-10 23:17:36,430 - logger - INFO - Sender Address (Pubkey): 0x8c3dF0b519382B65437aD8CaC60607355785Fe54
+2024-09-10 23:17:36,430 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:17:36,431 - logger - INFO - ----------------------------------------
+2024-09-10 23:17:37,195 - logger - INFO - Deposit Found:
+2024-09-10 23:17:37,195 - logger - INFO - Block Number: 20721243
+2024-09-10 23:17:37,195 - logger - INFO - Block Timestamp: 1725983807
+2024-09-10 23:17:37,195 - logger - INFO - Transaction Hash: f914b7fd1abf3bde73b03bfc1a402793e5fc1aa23bc8a4a015c0a8b91a6d6e7f
+2024-09-10 23:17:37,195 - logger - INFO - Sender Address (Pubkey): 0xCbf91D30177dca1E71C2a9a29BE1a1bA40B02dcF
+2024-09-10 23:17:37,195 - logger - INFO - Amount (Fee): 5.0 Ether
+2024-09-10 23:17:37,196 - logger - INFO - ----------------------------------------
+2024-09-10 23:17:37,914 - logger - INFO - Deposit Found:
+2024-09-10 23:17:37,914 - logger - INFO - Block Number: 20721255
+2024-09-10 23:17:37,914 - logger - INFO - Block Timestamp: 1725983951
+2024-09-10 23:17:37,914 - logger - INFO - Transaction Hash: 6cf1e4fa105e13a668498189e373080e8042cc17c2981b60da8c6879eb3c887f
+2024-09-10 23:17:37,914 - logger - INFO - Sender Address (Pubkey): 0x3D0EE3b5524Bf0A8C0a48df7471dFC82CeA1053c
+2024-09-10 23:17:37,914 - logger - INFO - Amount (Fee): 22.487863447401434 Ether
+2024-09-10 23:17:37,914 - logger - INFO - ----------------------------------------
+2024-09-10 23:17:38,624 - logger - INFO - Deposit Found:
+2024-09-10 23:17:38,624 - logger - INFO - Block Number: 20721326
+2024-09-10 23:17:38,624 - logger - INFO - Block Timestamp: 1725984803
+2024-09-10 23:17:38,624 - logger - INFO - Transaction Hash: d67dda89e11d7628d7ba636a36fd125abf231864e05123a086e075dd393b0d6d
+2024-09-10 23:17:38,624 - logger - INFO - Sender Address (Pubkey): 0xC44b7316936E2F004E688fD53a95e060Df1811C3
+2024-09-10 23:17:38,624 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:17:38,624 - logger - INFO - ----------------------------------------
+2024-09-10 23:17:39,406 - logger - INFO - Deposit Found:
+2024-09-10 23:17:39,406 - logger - INFO - Block Number: 20721373
+2024-09-10 23:17:39,406 - logger - INFO - Block Timestamp: 1725985379
+2024-09-10 23:17:39,406 - logger - INFO - Transaction Hash: 260237901af82e1e9a0d093470a804905fc6656f95ed21a04e867a391da25e70
+2024-09-10 23:17:39,406 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:17:39,407 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:17:39,407 - logger - INFO - ----------------------------------------
+2024-09-10 23:17:40,069 - logger - INFO - Deposit Found:
+2024-09-10 23:17:40,069 - logger - INFO - Block Number: 20721441
+2024-09-10 23:17:40,069 - logger - INFO - Block Timestamp: 1725986195
+2024-09-10 23:17:40,069 - logger - INFO - Transaction Hash: 9c24de4938dbba390c4b32689557074fe70cc9031b825802f93a5d80a38654c9
+2024-09-10 23:17:40,069 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:17:40,069 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:17:40,069 - logger - INFO - ----------------------------------------
+2024-09-10 23:17:40,770 - logger - INFO - Deposit Found:
+2024-09-10 23:17:40,770 - logger - INFO - Block Number: 20721484
+2024-09-10 23:17:40,770 - logger - INFO - Block Timestamp: 1725986711
+2024-09-10 23:17:40,770 - logger - INFO - Transaction Hash: a54c616cb3166551de0cba462394babbee016effde43b36a016d8dad99473f4d
+2024-09-10 23:17:40,770 - logger - INFO - Sender Address (Pubkey): 0xB708009fA39467935FA56EDc89C1e6072403c22f
+2024-09-10 23:17:40,770 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:17:40,771 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:29,037 - logger - INFO - Fetching deposits from block 0x13c2ca1 to 0x13c3088...
+2024-09-10 23:18:29,485 - logger - INFO - Fetched 13 logs from blocks 0x13c2ca1 to 0x13c3088.
+2024-09-10 23:18:30,096 - logger - INFO - Deposit Found:
+2024-09-10 23:18:30,097 - logger - INFO - Block Number: 20720918
+2024-09-10 23:18:30,097 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:18:30,097 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:18:30,097 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:18:30,097 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:18:30,097 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:30,698 - logger - INFO - Deposit Found:
+2024-09-10 23:18:30,698 - logger - INFO - Block Number: 20720918
+2024-09-10 23:18:30,699 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:18:30,699 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:18:30,699 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:18:30,699 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:18:30,699 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:31,294 - logger - INFO - Deposit Found:
+2024-09-10 23:18:31,295 - logger - INFO - Block Number: 20720918
+2024-09-10 23:18:31,295 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:18:31,295 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:18:31,295 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:18:31,295 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:18:31,295 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:31,874 - logger - INFO - Deposit Found:
+2024-09-10 23:18:31,874 - logger - INFO - Block Number: 20721042
+2024-09-10 23:18:31,875 - logger - INFO - Block Timestamp: 1725981383
+2024-09-10 23:18:31,875 - logger - INFO - Transaction Hash: 741852c12a1026a3e5012e57a1c6f0bcaa8622ee25796176d6d30e2f47e85278
+2024-09-10 23:18:31,875 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:18:31,875 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:18:31,875 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:32,485 - logger - INFO - Deposit Found:
+2024-09-10 23:18:32,486 - logger - INFO - Block Number: 20721100
+2024-09-10 23:18:32,486 - logger - INFO - Block Timestamp: 1725982091
+2024-09-10 23:18:32,486 - logger - INFO - Transaction Hash: f751cb6d8c5575aa1fb01ef204eed405a0bf9963fb6a900e83f3446c3254e7fe
+2024-09-10 23:18:32,486 - logger - INFO - Sender Address (Pubkey): 0x8c3dF0b519382B65437aD8CaC60607355785Fe54
+2024-09-10 23:18:32,486 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:18:32,486 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:33,114 - logger - INFO - Deposit Found:
+2024-09-10 23:18:33,114 - logger - INFO - Block Number: 20721243
+2024-09-10 23:18:33,114 - logger - INFO - Block Timestamp: 1725983807
+2024-09-10 23:18:33,115 - logger - INFO - Transaction Hash: f914b7fd1abf3bde73b03bfc1a402793e5fc1aa23bc8a4a015c0a8b91a6d6e7f
+2024-09-10 23:18:33,115 - logger - INFO - Sender Address (Pubkey): 0xCbf91D30177dca1E71C2a9a29BE1a1bA40B02dcF
+2024-09-10 23:18:33,115 - logger - INFO - Amount (Fee): 5.0 Ether
+2024-09-10 23:18:33,115 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:33,723 - logger - INFO - Deposit Found:
+2024-09-10 23:18:33,724 - logger - INFO - Block Number: 20721255
+2024-09-10 23:18:33,724 - logger - INFO - Block Timestamp: 1725983951
+2024-09-10 23:18:33,724 - logger - INFO - Transaction Hash: 6cf1e4fa105e13a668498189e373080e8042cc17c2981b60da8c6879eb3c887f
+2024-09-10 23:18:33,724 - logger - INFO - Sender Address (Pubkey): 0x3D0EE3b5524Bf0A8C0a48df7471dFC82CeA1053c
+2024-09-10 23:18:33,724 - logger - INFO - Amount (Fee): 22.487863447401434 Ether
+2024-09-10 23:18:33,724 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:34,358 - logger - INFO - Deposit Found:
+2024-09-10 23:18:34,359 - logger - INFO - Block Number: 20721326
+2024-09-10 23:18:34,359 - logger - INFO - Block Timestamp: 1725984803
+2024-09-10 23:18:34,359 - logger - INFO - Transaction Hash: d67dda89e11d7628d7ba636a36fd125abf231864e05123a086e075dd393b0d6d
+2024-09-10 23:18:34,359 - logger - INFO - Sender Address (Pubkey): 0xC44b7316936E2F004E688fD53a95e060Df1811C3
+2024-09-10 23:18:34,359 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:18:34,359 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:34,971 - logger - INFO - Deposit Found:
+2024-09-10 23:18:34,971 - logger - INFO - Block Number: 20721373
+2024-09-10 23:18:34,971 - logger - INFO - Block Timestamp: 1725985379
+2024-09-10 23:18:34,971 - logger - INFO - Transaction Hash: 260237901af82e1e9a0d093470a804905fc6656f95ed21a04e867a391da25e70
+2024-09-10 23:18:34,971 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:18:34,971 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:18:34,971 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:35,573 - logger - INFO - Deposit Found:
+2024-09-10 23:18:35,573 - logger - INFO - Block Number: 20721441
+2024-09-10 23:18:35,573 - logger - INFO - Block Timestamp: 1725986195
+2024-09-10 23:18:35,573 - logger - INFO - Transaction Hash: 9c24de4938dbba390c4b32689557074fe70cc9031b825802f93a5d80a38654c9
+2024-09-10 23:18:35,573 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:18:35,573 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:18:35,574 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:36,142 - logger - INFO - Deposit Found:
+2024-09-10 23:18:36,142 - logger - INFO - Block Number: 20721484
+2024-09-10 23:18:36,142 - logger - INFO - Block Timestamp: 1725986711
+2024-09-10 23:18:36,142 - logger - INFO - Transaction Hash: a54c616cb3166551de0cba462394babbee016effde43b36a016d8dad99473f4d
+2024-09-10 23:18:36,142 - logger - INFO - Sender Address (Pubkey): 0xB708009fA39467935FA56EDc89C1e6072403c22f
+2024-09-10 23:18:36,142 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:18:36,143 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:36,749 - logger - INFO - Deposit Found:
+2024-09-10 23:18:36,749 - logger - INFO - Block Number: 20721639
+2024-09-10 23:18:36,749 - logger - INFO - Block Timestamp: 1725988571
+2024-09-10 23:18:36,749 - logger - INFO - Transaction Hash: ee740fa68dbc6c587fc03f85782246c244c1863cf3797aa70e8036e60409a3ce
+2024-09-10 23:18:36,750 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:18:36,750 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:18:36,750 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:37,364 - logger - INFO - Deposit Found:
+2024-09-10 23:18:37,365 - logger - INFO - Block Number: 20721640
+2024-09-10 23:18:37,365 - logger - INFO - Block Timestamp: 1725988583
+2024-09-10 23:18:37,365 - logger - INFO - Transaction Hash: aba86377b06a128893ac8ab44754e7ad296a59b39e4628a9afebc6e841263d6a
+2024-09-10 23:18:37,365 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:18:37,365 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:18:37,365 - logger - INFO - ----------------------------------------
+2024-09-10 23:18:37,369 - logger - INFO - Updated ./logs/deposit_logs.json with 13 new deposits.
+2024-09-10 23:19:37,672 - logger - INFO - Fetching deposits from block 0x13c2ca1 to 0x13c3088...
+2024-09-10 23:19:38,035 - logger - INFO - Fetched 13 logs from blocks 0x13c2ca1 to 0x13c3088.
+2024-09-10 23:19:38,636 - logger - INFO - Deposit Found:
+2024-09-10 23:19:38,636 - logger - INFO - Block Number: 20720918
+2024-09-10 23:19:38,636 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:19:38,637 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:19:38,637 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:19:38,637 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:19:38,637 - logger - INFO - ----------------------------------------
+2024-09-10 23:19:39,231 - logger - INFO - Deposit Found:
+2024-09-10 23:19:39,231 - logger - INFO - Block Number: 20720918
+2024-09-10 23:19:39,232 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:19:39,232 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:19:39,232 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:19:39,232 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:19:39,232 - logger - INFO - ----------------------------------------
+2024-09-10 23:19:40,231 - logger - INFO - Deposit Found:
+2024-09-10 23:19:40,231 - logger - INFO - Block Number: 20720918
+2024-09-10 23:19:40,231 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:19:40,231 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:19:40,232 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:19:40,232 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:19:40,232 - logger - INFO - ----------------------------------------
+2024-09-10 23:19:40,830 - logger - INFO - Deposit Found:
+2024-09-10 23:19:40,830 - logger - INFO - Block Number: 20721042
+2024-09-10 23:19:40,830 - logger - INFO - Block Timestamp: 1725981383
+2024-09-10 23:19:40,830 - logger - INFO - Transaction Hash: 741852c12a1026a3e5012e57a1c6f0bcaa8622ee25796176d6d30e2f47e85278
+2024-09-10 23:19:40,830 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:19:40,830 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:19:40,830 - logger - INFO - ----------------------------------------
+2024-09-10 23:19:41,547 - logger - INFO - Deposit Found:
+2024-09-10 23:19:41,548 - logger - INFO - Block Number: 20721100
+2024-09-10 23:19:41,548 - logger - INFO - Block Timestamp: 1725982091
+2024-09-10 23:19:41,548 - logger - INFO - Transaction Hash: f751cb6d8c5575aa1fb01ef204eed405a0bf9963fb6a900e83f3446c3254e7fe
+2024-09-10 23:19:41,548 - logger - INFO - Sender Address (Pubkey): 0x8c3dF0b519382B65437aD8CaC60607355785Fe54
+2024-09-10 23:19:41,548 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:19:41,549 - logger - INFO - ----------------------------------------
+2024-09-10 23:19:42,161 - logger - INFO - Deposit Found:
+2024-09-10 23:19:42,161 - logger - INFO - Block Number: 20721243
+2024-09-10 23:19:42,161 - logger - INFO - Block Timestamp: 1725983807
+2024-09-10 23:19:42,161 - logger - INFO - Transaction Hash: f914b7fd1abf3bde73b03bfc1a402793e5fc1aa23bc8a4a015c0a8b91a6d6e7f
+2024-09-10 23:19:42,161 - logger - INFO - Sender Address (Pubkey): 0xCbf91D30177dca1E71C2a9a29BE1a1bA40B02dcF
+2024-09-10 23:19:42,162 - logger - INFO - Amount (Fee): 5.0 Ether
+2024-09-10 23:19:42,162 - logger - INFO - ----------------------------------------
+2024-09-10 23:19:42,806 - logger - INFO - Deposit Found:
+2024-09-10 23:19:42,806 - logger - INFO - Block Number: 20721255
+2024-09-10 23:19:42,806 - logger - INFO - Block Timestamp: 1725983951
+2024-09-10 23:19:42,806 - logger - INFO - Transaction Hash: 6cf1e4fa105e13a668498189e373080e8042cc17c2981b60da8c6879eb3c887f
+2024-09-10 23:19:42,806 - logger - INFO - Sender Address (Pubkey): 0x3D0EE3b5524Bf0A8C0a48df7471dFC82CeA1053c
+2024-09-10 23:19:42,806 - logger - INFO - Amount (Fee): 22.487863447401434 Ether
+2024-09-10 23:19:42,807 - logger - INFO - ----------------------------------------
+2024-09-10 23:19:43,374 - logger - INFO - Deposit Found:
+2024-09-10 23:19:43,375 - logger - INFO - Block Number: 20721326
+2024-09-10 23:19:43,375 - logger - INFO - Block Timestamp: 1725984803
+2024-09-10 23:19:43,375 - logger - INFO - Transaction Hash: d67dda89e11d7628d7ba636a36fd125abf231864e05123a086e075dd393b0d6d
+2024-09-10 23:19:43,375 - logger - INFO - Sender Address (Pubkey): 0xC44b7316936E2F004E688fD53a95e060Df1811C3
+2024-09-10 23:19:43,375 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:19:43,376 - logger - INFO - ----------------------------------------
+2024-09-10 23:19:44,018 - logger - INFO - Deposit Found:
+2024-09-10 23:19:44,019 - logger - INFO - Block Number: 20721373
+2024-09-10 23:19:44,019 - logger - INFO - Block Timestamp: 1725985379
+2024-09-10 23:19:44,019 - logger - INFO - Transaction Hash: 260237901af82e1e9a0d093470a804905fc6656f95ed21a04e867a391da25e70
+2024-09-10 23:19:44,019 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:19:44,019 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:19:44,019 - logger - INFO - ----------------------------------------
+2024-09-10 23:19:44,630 - logger - INFO - Deposit Found:
+2024-09-10 23:19:44,630 - logger - INFO - Block Number: 20721441
+2024-09-10 23:19:44,630 - logger - INFO - Block Timestamp: 1725986195
+2024-09-10 23:19:44,630 - logger - INFO - Transaction Hash: 9c24de4938dbba390c4b32689557074fe70cc9031b825802f93a5d80a38654c9
+2024-09-10 23:19:44,630 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:19:44,630 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:19:44,630 - logger - INFO - ----------------------------------------
+2024-09-10 23:19:45,244 - logger - INFO - Deposit Found:
+2024-09-10 23:19:45,245 - logger - INFO - Block Number: 20721484
+2024-09-10 23:19:45,245 - logger - INFO - Block Timestamp: 1725986711
+2024-09-10 23:19:45,245 - logger - INFO - Transaction Hash: a54c616cb3166551de0cba462394babbee016effde43b36a016d8dad99473f4d
+2024-09-10 23:19:45,245 - logger - INFO - Sender Address (Pubkey): 0xB708009fA39467935FA56EDc89C1e6072403c22f
+2024-09-10 23:19:45,245 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:19:45,245 - logger - INFO - ----------------------------------------
+2024-09-10 23:19:45,955 - logger - INFO - Deposit Found:
+2024-09-10 23:19:45,955 - logger - INFO - Block Number: 20721639
+2024-09-10 23:19:45,955 - logger - INFO - Block Timestamp: 1725988571
+2024-09-10 23:19:45,955 - logger - INFO - Transaction Hash: ee740fa68dbc6c587fc03f85782246c244c1863cf3797aa70e8036e60409a3ce
+2024-09-10 23:19:45,955 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:19:45,956 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:19:45,956 - logger - INFO - ----------------------------------------
+2024-09-10 23:19:46,588 - logger - INFO - Deposit Found:
+2024-09-10 23:19:46,588 - logger - INFO - Block Number: 20721640
+2024-09-10 23:19:46,588 - logger - INFO - Block Timestamp: 1725988583
+2024-09-10 23:19:46,588 - logger - INFO - Transaction Hash: aba86377b06a128893ac8ab44754e7ad296a59b39e4628a9afebc6e841263d6a
+2024-09-10 23:19:46,588 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:19:46,589 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:19:46,589 - logger - INFO - ----------------------------------------
+2024-09-10 23:19:46,591 - logger - INFO - Updated ./logs/deposit_logs.json with 13 new deposits.
+2024-09-10 23:20:46,894 - logger - INFO - Fetching deposits from block 0x13c3089 to 0x13c3093...
+2024-09-10 23:20:47,208 - logger - INFO - Fetched 0 logs from blocks 0x13c3089 to 0x13c3093.
+2024-09-10 23:20:47,208 - logger - INFO - No new deposits found in the fetched logs.
+2024-09-10 23:21:47,558 - logger - INFO - Fetching deposits from block 0x13c2cac to 0x13c3093...
+2024-09-10 23:21:47,902 - logger - INFO - Fetched 13 logs from blocks 0x13c2cac to 0x13c3093.
+2024-09-10 23:21:48,530 - logger - INFO - Deposit Found:
+2024-09-10 23:21:48,531 - logger - INFO - Block Number: 20720918
+2024-09-10 23:21:48,531 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:21:48,531 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:21:48,531 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:21:48,531 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:21:48,531 - logger - INFO - ----------------------------------------
+2024-09-10 23:21:49,215 - logger - INFO - Deposit Found:
+2024-09-10 23:21:49,215 - logger - INFO - Block Number: 20720918
+2024-09-10 23:21:49,215 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:21:49,216 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:21:49,216 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:21:49,216 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:21:49,216 - logger - INFO - ----------------------------------------
+2024-09-10 23:21:49,915 - logger - INFO - Deposit Found:
+2024-09-10 23:21:49,915 - logger - INFO - Block Number: 20720918
+2024-09-10 23:21:49,915 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:21:49,915 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:21:49,915 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:21:49,915 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:21:49,915 - logger - INFO - ----------------------------------------
+2024-09-10 23:21:50,624 - logger - INFO - Deposit Found:
+2024-09-10 23:21:50,624 - logger - INFO - Block Number: 20721042
+2024-09-10 23:21:50,624 - logger - INFO - Block Timestamp: 1725981383
+2024-09-10 23:21:50,624 - logger - INFO - Transaction Hash: 741852c12a1026a3e5012e57a1c6f0bcaa8622ee25796176d6d30e2f47e85278
+2024-09-10 23:21:50,624 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:21:50,624 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:21:50,624 - logger - INFO - ----------------------------------------
+2024-09-10 23:21:51,199 - logger - INFO - Deposit Found:
+2024-09-10 23:21:51,200 - logger - INFO - Block Number: 20721100
+2024-09-10 23:21:51,200 - logger - INFO - Block Timestamp: 1725982091
+2024-09-10 23:21:51,200 - logger - INFO - Transaction Hash: f751cb6d8c5575aa1fb01ef204eed405a0bf9963fb6a900e83f3446c3254e7fe
+2024-09-10 23:21:51,200 - logger - INFO - Sender Address (Pubkey): 0x8c3dF0b519382B65437aD8CaC60607355785Fe54
+2024-09-10 23:21:51,200 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:21:51,200 - logger - INFO - ----------------------------------------
+2024-09-10 23:21:51,832 - logger - INFO - Deposit Found:
+2024-09-10 23:21:51,832 - logger - INFO - Block Number: 20721243
+2024-09-10 23:21:51,832 - logger - INFO - Block Timestamp: 1725983807
+2024-09-10 23:21:51,832 - logger - INFO - Transaction Hash: f914b7fd1abf3bde73b03bfc1a402793e5fc1aa23bc8a4a015c0a8b91a6d6e7f
+2024-09-10 23:21:51,832 - logger - INFO - Sender Address (Pubkey): 0xCbf91D30177dca1E71C2a9a29BE1a1bA40B02dcF
+2024-09-10 23:21:51,832 - logger - INFO - Amount (Fee): 5.0 Ether
+2024-09-10 23:21:51,832 - logger - INFO - ----------------------------------------
+2024-09-10 23:21:52,454 - logger - INFO - Deposit Found:
+2024-09-10 23:21:52,454 - logger - INFO - Block Number: 20721255
+2024-09-10 23:21:52,454 - logger - INFO - Block Timestamp: 1725983951
+2024-09-10 23:21:52,454 - logger - INFO - Transaction Hash: 6cf1e4fa105e13a668498189e373080e8042cc17c2981b60da8c6879eb3c887f
+2024-09-10 23:21:52,454 - logger - INFO - Sender Address (Pubkey): 0x3D0EE3b5524Bf0A8C0a48df7471dFC82CeA1053c
+2024-09-10 23:21:52,454 - logger - INFO - Amount (Fee): 22.487863447401434 Ether
+2024-09-10 23:21:52,454 - logger - INFO - ----------------------------------------
+2024-09-10 23:21:53,056 - logger - INFO - Deposit Found:
+2024-09-10 23:21:53,056 - logger - INFO - Block Number: 20721326
+2024-09-10 23:21:53,056 - logger - INFO - Block Timestamp: 1725984803
+2024-09-10 23:21:53,056 - logger - INFO - Transaction Hash: d67dda89e11d7628d7ba636a36fd125abf231864e05123a086e075dd393b0d6d
+2024-09-10 23:21:53,056 - logger - INFO - Sender Address (Pubkey): 0xC44b7316936E2F004E688fD53a95e060Df1811C3
+2024-09-10 23:21:53,056 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:21:53,057 - logger - INFO - ----------------------------------------
+2024-09-10 23:21:53,661 - logger - INFO - Deposit Found:
+2024-09-10 23:21:53,661 - logger - INFO - Block Number: 20721373
+2024-09-10 23:21:53,661 - logger - INFO - Block Timestamp: 1725985379
+2024-09-10 23:21:53,661 - logger - INFO - Transaction Hash: 260237901af82e1e9a0d093470a804905fc6656f95ed21a04e867a391da25e70
+2024-09-10 23:21:53,661 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:21:53,661 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:21:53,661 - logger - INFO - ----------------------------------------
+2024-09-10 23:21:54,389 - logger - INFO - Deposit Found:
+2024-09-10 23:21:54,389 - logger - INFO - Block Number: 20721441
+2024-09-10 23:21:54,390 - logger - INFO - Block Timestamp: 1725986195
+2024-09-10 23:21:54,390 - logger - INFO - Transaction Hash: 9c24de4938dbba390c4b32689557074fe70cc9031b825802f93a5d80a38654c9
+2024-09-10 23:21:54,390 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:21:54,390 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:21:54,390 - logger - INFO - ----------------------------------------
+2024-09-10 23:21:55,032 - logger - INFO - Deposit Found:
+2024-09-10 23:21:55,032 - logger - INFO - Block Number: 20721484
+2024-09-10 23:21:55,033 - logger - INFO - Block Timestamp: 1725986711
+2024-09-10 23:21:55,033 - logger - INFO - Transaction Hash: a54c616cb3166551de0cba462394babbee016effde43b36a016d8dad99473f4d
+2024-09-10 23:21:55,033 - logger - INFO - Sender Address (Pubkey): 0xB708009fA39467935FA56EDc89C1e6072403c22f
+2024-09-10 23:21:55,033 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:21:55,033 - logger - INFO - ----------------------------------------
+2024-09-10 23:21:55,666 - logger - INFO - Deposit Found:
+2024-09-10 23:21:55,667 - logger - INFO - Block Number: 20721639
+2024-09-10 23:21:55,667 - logger - INFO - Block Timestamp: 1725988571
+2024-09-10 23:21:55,667 - logger - INFO - Transaction Hash: ee740fa68dbc6c587fc03f85782246c244c1863cf3797aa70e8036e60409a3ce
+2024-09-10 23:21:55,667 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:21:55,667 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:21:55,667 - logger - INFO - ----------------------------------------
+2024-09-10 23:21:56,264 - logger - INFO - Deposit Found:
+2024-09-10 23:21:56,265 - logger - INFO - Block Number: 20721640
+2024-09-10 23:21:56,265 - logger - INFO - Block Timestamp: 1725988583
+2024-09-10 23:21:56,265 - logger - INFO - Transaction Hash: aba86377b06a128893ac8ab44754e7ad296a59b39e4628a9afebc6e841263d6a
+2024-09-10 23:21:56,265 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:21:56,265 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:21:56,265 - logger - INFO - ----------------------------------------
+2024-09-10 23:21:56,270 - logger - INFO - Updated ./logs/deposit_logs.json with 13 new deposits.
+2024-09-10 23:22:56,571 - logger - INFO - Fetching deposits from block 0x13c3094 to 0x13c309e...
+2024-09-10 23:22:56,886 - logger - INFO - Fetched 1 logs from blocks 0x13c3094 to 0x13c309e.
+2024-09-10 23:22:57,551 - logger - INFO - Deposit Found:
+2024-09-10 23:22:57,551 - logger - INFO - Block Number: 20721821
+2024-09-10 23:22:57,551 - logger - INFO - Block Timestamp: 1725990755
+2024-09-10 23:22:57,551 - logger - INFO - Transaction Hash: bb395ffbdad4ff7b2f501e78965f619d81935130b054fd5b6bb4a5946957f430
+2024-09-10 23:22:57,552 - logger - INFO - Sender Address (Pubkey): 0x936842bb7c37f47BD1477529f932305462B80139
+2024-09-10 23:22:57,552 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:22:57,552 - logger - INFO - ----------------------------------------
+2024-09-10 23:22:57,556 - logger - INFO - Updated ./logs/deposit_logs.json with 1 new deposits.
+2024-09-10 23:23:57,875 - logger - INFO - Fetching deposits from block 0x13c2cb7 to 0x13c309e...
+2024-09-10 23:23:58,240 - logger - INFO - Fetched 14 logs from blocks 0x13c2cb7 to 0x13c309e.
+2024-09-10 23:23:58,863 - logger - INFO - Deposit Found:
+2024-09-10 23:23:58,863 - logger - INFO - Block Number: 20720918
+2024-09-10 23:23:58,863 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:23:58,863 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:23:58,863 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:23:58,864 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:23:58,864 - logger - INFO - ----------------------------------------
+2024-09-10 23:23:59,486 - logger - INFO - Deposit Found:
+2024-09-10 23:23:59,486 - logger - INFO - Block Number: 20720918
+2024-09-10 23:23:59,486 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:23:59,487 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:23:59,487 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:23:59,487 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:23:59,487 - logger - INFO - ----------------------------------------
+2024-09-10 23:24:00,175 - logger - INFO - Deposit Found:
+2024-09-10 23:24:00,176 - logger - INFO - Block Number: 20720918
+2024-09-10 23:24:00,176 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:24:00,176 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:24:00,176 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:24:00,176 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:24:00,176 - logger - INFO - ----------------------------------------
+2024-09-10 23:24:00,765 - logger - INFO - Deposit Found:
+2024-09-10 23:24:00,765 - logger - INFO - Block Number: 20721042
+2024-09-10 23:24:00,765 - logger - INFO - Block Timestamp: 1725981383
+2024-09-10 23:24:00,765 - logger - INFO - Transaction Hash: 741852c12a1026a3e5012e57a1c6f0bcaa8622ee25796176d6d30e2f47e85278
+2024-09-10 23:24:00,765 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:24:00,765 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:24:00,765 - logger - INFO - ----------------------------------------
+2024-09-10 23:24:01,446 - logger - INFO - Deposit Found:
+2024-09-10 23:24:01,446 - logger - INFO - Block Number: 20721100
+2024-09-10 23:24:01,446 - logger - INFO - Block Timestamp: 1725982091
+2024-09-10 23:24:01,446 - logger - INFO - Transaction Hash: f751cb6d8c5575aa1fb01ef204eed405a0bf9963fb6a900e83f3446c3254e7fe
+2024-09-10 23:24:01,446 - logger - INFO - Sender Address (Pubkey): 0x8c3dF0b519382B65437aD8CaC60607355785Fe54
+2024-09-10 23:24:01,446 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:24:01,447 - logger - INFO - ----------------------------------------
+2024-09-10 23:24:02,105 - logger - INFO - Deposit Found:
+2024-09-10 23:24:02,106 - logger - INFO - Block Number: 20721243
+2024-09-10 23:24:02,106 - logger - INFO - Block Timestamp: 1725983807
+2024-09-10 23:24:02,106 - logger - INFO - Transaction Hash: f914b7fd1abf3bde73b03bfc1a402793e5fc1aa23bc8a4a015c0a8b91a6d6e7f
+2024-09-10 23:24:02,106 - logger - INFO - Sender Address (Pubkey): 0xCbf91D30177dca1E71C2a9a29BE1a1bA40B02dcF
+2024-09-10 23:24:02,106 - logger - INFO - Amount (Fee): 5.0 Ether
+2024-09-10 23:24:02,106 - logger - INFO - ----------------------------------------
+2024-09-10 23:24:02,775 - logger - INFO - Deposit Found:
+2024-09-10 23:24:02,775 - logger - INFO - Block Number: 20721255
+2024-09-10 23:24:02,775 - logger - INFO - Block Timestamp: 1725983951
+2024-09-10 23:24:02,775 - logger - INFO - Transaction Hash: 6cf1e4fa105e13a668498189e373080e8042cc17c2981b60da8c6879eb3c887f
+2024-09-10 23:24:02,776 - logger - INFO - Sender Address (Pubkey): 0x3D0EE3b5524Bf0A8C0a48df7471dFC82CeA1053c
+2024-09-10 23:24:02,776 - logger - INFO - Amount (Fee): 22.487863447401434 Ether
+2024-09-10 23:24:02,776 - logger - INFO - ----------------------------------------
+2024-09-10 23:24:03,470 - logger - INFO - Deposit Found:
+2024-09-10 23:24:03,470 - logger - INFO - Block Number: 20721326
+2024-09-10 23:24:03,470 - logger - INFO - Block Timestamp: 1725984803
+2024-09-10 23:24:03,470 - logger - INFO - Transaction Hash: d67dda89e11d7628d7ba636a36fd125abf231864e05123a086e075dd393b0d6d
+2024-09-10 23:24:03,470 - logger - INFO - Sender Address (Pubkey): 0xC44b7316936E2F004E688fD53a95e060Df1811C3
+2024-09-10 23:24:03,470 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:24:03,470 - logger - INFO - ----------------------------------------
+2024-09-10 23:24:04,113 - logger - INFO - Deposit Found:
+2024-09-10 23:24:04,114 - logger - INFO - Block Number: 20721373
+2024-09-10 23:24:04,114 - logger - INFO - Block Timestamp: 1725985379
+2024-09-10 23:24:04,114 - logger - INFO - Transaction Hash: 260237901af82e1e9a0d093470a804905fc6656f95ed21a04e867a391da25e70
+2024-09-10 23:24:04,115 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:24:04,115 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:24:04,115 - logger - INFO - ----------------------------------------
+2024-09-10 23:24:04,777 - logger - INFO - Deposit Found:
+2024-09-10 23:24:04,778 - logger - INFO - Block Number: 20721441
+2024-09-10 23:24:04,778 - logger - INFO - Block Timestamp: 1725986195
+2024-09-10 23:24:04,778 - logger - INFO - Transaction Hash: 9c24de4938dbba390c4b32689557074fe70cc9031b825802f93a5d80a38654c9
+2024-09-10 23:24:04,778 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:24:04,778 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:24:04,779 - logger - INFO - ----------------------------------------
+2024-09-10 23:24:05,405 - logger - INFO - Deposit Found:
+2024-09-10 23:24:05,405 - logger - INFO - Block Number: 20721484
+2024-09-10 23:24:05,405 - logger - INFO - Block Timestamp: 1725986711
+2024-09-10 23:24:05,405 - logger - INFO - Transaction Hash: a54c616cb3166551de0cba462394babbee016effde43b36a016d8dad99473f4d
+2024-09-10 23:24:05,405 - logger - INFO - Sender Address (Pubkey): 0xB708009fA39467935FA56EDc89C1e6072403c22f
+2024-09-10 23:24:05,405 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:24:05,406 - logger - INFO - ----------------------------------------
+2024-09-10 23:24:06,118 - logger - INFO - Deposit Found:
+2024-09-10 23:24:06,118 - logger - INFO - Block Number: 20721639
+2024-09-10 23:24:06,118 - logger - INFO - Block Timestamp: 1725988571
+2024-09-10 23:24:06,118 - logger - INFO - Transaction Hash: ee740fa68dbc6c587fc03f85782246c244c1863cf3797aa70e8036e60409a3ce
+2024-09-10 23:24:06,118 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:24:06,119 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:24:06,119 - logger - INFO - ----------------------------------------
+2024-09-10 23:24:06,733 - logger - INFO - Deposit Found:
+2024-09-10 23:24:06,733 - logger - INFO - Block Number: 20721640
+2024-09-10 23:24:06,733 - logger - INFO - Block Timestamp: 1725988583
+2024-09-10 23:24:06,733 - logger - INFO - Transaction Hash: aba86377b06a128893ac8ab44754e7ad296a59b39e4628a9afebc6e841263d6a
+2024-09-10 23:24:06,733 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:24:06,733 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:24:06,733 - logger - INFO - ----------------------------------------
+2024-09-10 23:24:07,434 - logger - INFO - Deposit Found:
+2024-09-10 23:24:07,435 - logger - INFO - Block Number: 20721821
+2024-09-10 23:24:07,435 - logger - INFO - Block Timestamp: 1725990755
+2024-09-10 23:24:07,435 - logger - INFO - Transaction Hash: bb395ffbdad4ff7b2f501e78965f619d81935130b054fd5b6bb4a5946957f430
+2024-09-10 23:24:07,435 - logger - INFO - Sender Address (Pubkey): 0x936842bb7c37f47BD1477529f932305462B80139
+2024-09-10 23:24:07,435 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:24:07,435 - logger - INFO - ----------------------------------------
+2024-09-10 23:24:07,439 - logger - INFO - Updated ./logs/deposit_logs.json with 14 new deposits.
+2024-09-10 23:25:07,748 - logger - INFO - Fetching deposits from block 0x13c309f to 0x13c30a8...
+2024-09-10 23:25:08,073 - logger - INFO - Fetched 0 logs from blocks 0x13c309f to 0x13c30a8.
+2024-09-10 23:25:08,074 - logger - INFO - No new deposits found in the fetched logs.
+2024-09-10 23:26:08,386 - logger - INFO - Fetching deposits from block 0x13c2cc1 to 0x13c30a8...
+2024-09-10 23:26:08,762 - logger - INFO - Fetched 14 logs from blocks 0x13c2cc1 to 0x13c30a8.
+2024-09-10 23:26:09,389 - logger - INFO - Deposit Found:
+2024-09-10 23:26:09,390 - logger - INFO - Block Number: 20720918
+2024-09-10 23:26:09,390 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:26:09,390 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:26:09,390 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:26:09,391 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:26:09,391 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:09,979 - logger - INFO - Deposit Found:
+2024-09-10 23:26:09,980 - logger - INFO - Block Number: 20720918
+2024-09-10 23:26:09,980 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:26:09,980 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:26:09,980 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:26:09,980 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:26:09,980 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:10,573 - logger - INFO - Deposit Found:
+2024-09-10 23:26:10,574 - logger - INFO - Block Number: 20720918
+2024-09-10 23:26:10,574 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:26:10,574 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:26:10,574 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:26:10,574 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:26:10,575 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:11,209 - logger - INFO - Deposit Found:
+2024-09-10 23:26:11,209 - logger - INFO - Block Number: 20721042
+2024-09-10 23:26:11,210 - logger - INFO - Block Timestamp: 1725981383
+2024-09-10 23:26:11,210 - logger - INFO - Transaction Hash: 741852c12a1026a3e5012e57a1c6f0bcaa8622ee25796176d6d30e2f47e85278
+2024-09-10 23:26:11,210 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:26:11,211 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:26:11,211 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:11,803 - logger - INFO - Deposit Found:
+2024-09-10 23:26:11,803 - logger - INFO - Block Number: 20721100
+2024-09-10 23:26:11,803 - logger - INFO - Block Timestamp: 1725982091
+2024-09-10 23:26:11,803 - logger - INFO - Transaction Hash: f751cb6d8c5575aa1fb01ef204eed405a0bf9963fb6a900e83f3446c3254e7fe
+2024-09-10 23:26:11,803 - logger - INFO - Sender Address (Pubkey): 0x8c3dF0b519382B65437aD8CaC60607355785Fe54
+2024-09-10 23:26:11,803 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:26:11,803 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:12,427 - logger - INFO - Deposit Found:
+2024-09-10 23:26:12,427 - logger - INFO - Block Number: 20721243
+2024-09-10 23:26:12,427 - logger - INFO - Block Timestamp: 1725983807
+2024-09-10 23:26:12,427 - logger - INFO - Transaction Hash: f914b7fd1abf3bde73b03bfc1a402793e5fc1aa23bc8a4a015c0a8b91a6d6e7f
+2024-09-10 23:26:12,427 - logger - INFO - Sender Address (Pubkey): 0xCbf91D30177dca1E71C2a9a29BE1a1bA40B02dcF
+2024-09-10 23:26:12,428 - logger - INFO - Amount (Fee): 5.0 Ether
+2024-09-10 23:26:12,428 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:13,047 - logger - INFO - Deposit Found:
+2024-09-10 23:26:13,047 - logger - INFO - Block Number: 20721255
+2024-09-10 23:26:13,047 - logger - INFO - Block Timestamp: 1725983951
+2024-09-10 23:26:13,047 - logger - INFO - Transaction Hash: 6cf1e4fa105e13a668498189e373080e8042cc17c2981b60da8c6879eb3c887f
+2024-09-10 23:26:13,048 - logger - INFO - Sender Address (Pubkey): 0x3D0EE3b5524Bf0A8C0a48df7471dFC82CeA1053c
+2024-09-10 23:26:13,048 - logger - INFO - Amount (Fee): 22.487863447401434 Ether
+2024-09-10 23:26:13,048 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:13,652 - logger - INFO - Deposit Found:
+2024-09-10 23:26:13,652 - logger - INFO - Block Number: 20721326
+2024-09-10 23:26:13,652 - logger - INFO - Block Timestamp: 1725984803
+2024-09-10 23:26:13,652 - logger - INFO - Transaction Hash: d67dda89e11d7628d7ba636a36fd125abf231864e05123a086e075dd393b0d6d
+2024-09-10 23:26:13,652 - logger - INFO - Sender Address (Pubkey): 0xC44b7316936E2F004E688fD53a95e060Df1811C3
+2024-09-10 23:26:13,652 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:26:13,652 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:14,269 - logger - INFO - Deposit Found:
+2024-09-10 23:26:14,269 - logger - INFO - Block Number: 20721373
+2024-09-10 23:26:14,269 - logger - INFO - Block Timestamp: 1725985379
+2024-09-10 23:26:14,269 - logger - INFO - Transaction Hash: 260237901af82e1e9a0d093470a804905fc6656f95ed21a04e867a391da25e70
+2024-09-10 23:26:14,269 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:26:14,270 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:26:14,270 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:14,896 - logger - INFO - Deposit Found:
+2024-09-10 23:26:14,896 - logger - INFO - Block Number: 20721441
+2024-09-10 23:26:14,896 - logger - INFO - Block Timestamp: 1725986195
+2024-09-10 23:26:14,896 - logger - INFO - Transaction Hash: 9c24de4938dbba390c4b32689557074fe70cc9031b825802f93a5d80a38654c9
+2024-09-10 23:26:14,896 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:26:14,897 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:26:14,897 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:15,519 - logger - INFO - Deposit Found:
+2024-09-10 23:26:15,519 - logger - INFO - Block Number: 20721484
+2024-09-10 23:26:15,519 - logger - INFO - Block Timestamp: 1725986711
+2024-09-10 23:26:15,519 - logger - INFO - Transaction Hash: a54c616cb3166551de0cba462394babbee016effde43b36a016d8dad99473f4d
+2024-09-10 23:26:15,519 - logger - INFO - Sender Address (Pubkey): 0xB708009fA39467935FA56EDc89C1e6072403c22f
+2024-09-10 23:26:15,520 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:26:15,520 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:16,199 - logger - INFO - Deposit Found:
+2024-09-10 23:26:16,199 - logger - INFO - Block Number: 20721639
+2024-09-10 23:26:16,199 - logger - INFO - Block Timestamp: 1725988571
+2024-09-10 23:26:16,199 - logger - INFO - Transaction Hash: ee740fa68dbc6c587fc03f85782246c244c1863cf3797aa70e8036e60409a3ce
+2024-09-10 23:26:16,199 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:26:16,200 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:26:16,200 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:16,823 - logger - INFO - Deposit Found:
+2024-09-10 23:26:16,823 - logger - INFO - Block Number: 20721640
+2024-09-10 23:26:16,823 - logger - INFO - Block Timestamp: 1725988583
+2024-09-10 23:26:16,823 - logger - INFO - Transaction Hash: aba86377b06a128893ac8ab44754e7ad296a59b39e4628a9afebc6e841263d6a
+2024-09-10 23:26:16,823 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:26:16,823 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:26:16,823 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:17,462 - logger - INFO - Deposit Found:
+2024-09-10 23:26:17,463 - logger - INFO - Block Number: 20721821
+2024-09-10 23:26:17,463 - logger - INFO - Block Timestamp: 1725990755
+2024-09-10 23:26:17,463 - logger - INFO - Transaction Hash: bb395ffbdad4ff7b2f501e78965f619d81935130b054fd5b6bb4a5946957f430
+2024-09-10 23:26:17,463 - logger - INFO - Sender Address (Pubkey): 0x936842bb7c37f47BD1477529f932305462B80139
+2024-09-10 23:26:17,463 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:26:17,463 - logger - INFO - ----------------------------------------
+2024-09-10 23:26:17,469 - logger - INFO - Updated ./logs/deposit_logs.json with 14 new deposits.
+2024-09-10 23:27:17,799 - logger - INFO - Fetching deposits from block 0x13c30a9 to 0x13c30b3...
+2024-09-10 23:27:18,096 - logger - INFO - Fetched 0 logs from blocks 0x13c30a9 to 0x13c30b3.
+2024-09-10 23:27:18,096 - logger - INFO - No new deposits found in the fetched logs.
+2024-09-10 23:28:18,413 - logger - INFO - Fetching deposits from block 0x13c2ccc to 0x13c30b3...
+2024-09-10 23:28:18,778 - logger - INFO - Fetched 14 logs from blocks 0x13c2ccc to 0x13c30b3.
+2024-09-10 23:28:19,392 - logger - INFO - Deposit Found:
+2024-09-10 23:28:19,393 - logger - INFO - Block Number: 20720918
+2024-09-10 23:28:19,393 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:28:19,393 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:28:19,393 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:28:19,393 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:28:19,393 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:19,988 - logger - INFO - Deposit Found:
+2024-09-10 23:28:19,988 - logger - INFO - Block Number: 20720918
+2024-09-10 23:28:19,988 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:28:19,988 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:28:19,988 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:28:19,988 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:28:19,988 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:20,598 - logger - INFO - Deposit Found:
+2024-09-10 23:28:20,598 - logger - INFO - Block Number: 20720918
+2024-09-10 23:28:20,598 - logger - INFO - Block Timestamp: 1725979871
+2024-09-10 23:28:20,599 - logger - INFO - Transaction Hash: 8c160a3e8de3b6113b03cb6383ee56d651e94c4dda4f2df9a549ed1fed3b01ec
+2024-09-10 23:28:20,599 - logger - INFO - Sender Address (Pubkey): 0xa40dFEE99E1C85DC97Fdc594b16A460717838703
+2024-09-10 23:28:20,599 - logger - INFO - Amount (Fee): 96.0 Ether
+2024-09-10 23:28:20,599 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:21,236 - logger - INFO - Deposit Found:
+2024-09-10 23:28:21,236 - logger - INFO - Block Number: 20721042
+2024-09-10 23:28:21,236 - logger - INFO - Block Timestamp: 1725981383
+2024-09-10 23:28:21,236 - logger - INFO - Transaction Hash: 741852c12a1026a3e5012e57a1c6f0bcaa8622ee25796176d6d30e2f47e85278
+2024-09-10 23:28:21,237 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:28:21,237 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:28:21,237 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:21,873 - logger - INFO - Deposit Found:
+2024-09-10 23:28:21,874 - logger - INFO - Block Number: 20721100
+2024-09-10 23:28:21,874 - logger - INFO - Block Timestamp: 1725982091
+2024-09-10 23:28:21,874 - logger - INFO - Transaction Hash: f751cb6d8c5575aa1fb01ef204eed405a0bf9963fb6a900e83f3446c3254e7fe
+2024-09-10 23:28:21,874 - logger - INFO - Sender Address (Pubkey): 0x8c3dF0b519382B65437aD8CaC60607355785Fe54
+2024-09-10 23:28:21,874 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:28:21,874 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:22,488 - logger - INFO - Deposit Found:
+2024-09-10 23:28:22,488 - logger - INFO - Block Number: 20721243
+2024-09-10 23:28:22,488 - logger - INFO - Block Timestamp: 1725983807
+2024-09-10 23:28:22,488 - logger - INFO - Transaction Hash: f914b7fd1abf3bde73b03bfc1a402793e5fc1aa23bc8a4a015c0a8b91a6d6e7f
+2024-09-10 23:28:22,489 - logger - INFO - Sender Address (Pubkey): 0xCbf91D30177dca1E71C2a9a29BE1a1bA40B02dcF
+2024-09-10 23:28:22,489 - logger - INFO - Amount (Fee): 5.0 Ether
+2024-09-10 23:28:22,489 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:23,099 - logger - INFO - Deposit Found:
+2024-09-10 23:28:23,099 - logger - INFO - Block Number: 20721255
+2024-09-10 23:28:23,099 - logger - INFO - Block Timestamp: 1725983951
+2024-09-10 23:28:23,100 - logger - INFO - Transaction Hash: 6cf1e4fa105e13a668498189e373080e8042cc17c2981b60da8c6879eb3c887f
+2024-09-10 23:28:23,100 - logger - INFO - Sender Address (Pubkey): 0x3D0EE3b5524Bf0A8C0a48df7471dFC82CeA1053c
+2024-09-10 23:28:23,100 - logger - INFO - Amount (Fee): 22.487863447401434 Ether
+2024-09-10 23:28:23,100 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:23,702 - logger - INFO - Deposit Found:
+2024-09-10 23:28:23,703 - logger - INFO - Block Number: 20721326
+2024-09-10 23:28:23,703 - logger - INFO - Block Timestamp: 1725984803
+2024-09-10 23:28:23,703 - logger - INFO - Transaction Hash: d67dda89e11d7628d7ba636a36fd125abf231864e05123a086e075dd393b0d6d
+2024-09-10 23:28:23,703 - logger - INFO - Sender Address (Pubkey): 0xC44b7316936E2F004E688fD53a95e060Df1811C3
+2024-09-10 23:28:23,703 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:28:23,703 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:24,322 - logger - INFO - Deposit Found:
+2024-09-10 23:28:24,323 - logger - INFO - Block Number: 20721373
+2024-09-10 23:28:24,323 - logger - INFO - Block Timestamp: 1725985379
+2024-09-10 23:28:24,323 - logger - INFO - Transaction Hash: 260237901af82e1e9a0d093470a804905fc6656f95ed21a04e867a391da25e70
+2024-09-10 23:28:24,323 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:28:24,323 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:28:24,323 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:24,936 - logger - INFO - Deposit Found:
+2024-09-10 23:28:24,936 - logger - INFO - Block Number: 20721441
+2024-09-10 23:28:24,936 - logger - INFO - Block Timestamp: 1725986195
+2024-09-10 23:28:24,937 - logger - INFO - Transaction Hash: 9c24de4938dbba390c4b32689557074fe70cc9031b825802f93a5d80a38654c9
+2024-09-10 23:28:24,937 - logger - INFO - Sender Address (Pubkey): 0x786A2D8Db842b8d1678Dd84ebbf9112fE711cf6b
+2024-09-10 23:28:24,937 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:28:24,937 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:25,733 - logger - INFO - Deposit Found:
+2024-09-10 23:28:25,734 - logger - INFO - Block Number: 20721484
+2024-09-10 23:28:25,734 - logger - INFO - Block Timestamp: 1725986711
+2024-09-10 23:28:25,734 - logger - INFO - Transaction Hash: a54c616cb3166551de0cba462394babbee016effde43b36a016d8dad99473f4d
+2024-09-10 23:28:25,734 - logger - INFO - Sender Address (Pubkey): 0xB708009fA39467935FA56EDc89C1e6072403c22f
+2024-09-10 23:28:25,734 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:28:25,734 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:26,312 - logger - INFO - Deposit Found:
+2024-09-10 23:28:26,312 - logger - INFO - Block Number: 20721639
+2024-09-10 23:28:26,312 - logger - INFO - Block Timestamp: 1725988571
+2024-09-10 23:28:26,313 - logger - INFO - Transaction Hash: ee740fa68dbc6c587fc03f85782246c244c1863cf3797aa70e8036e60409a3ce
+2024-09-10 23:28:26,313 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:28:26,313 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:28:26,313 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:26,930 - logger - INFO - Deposit Found:
+2024-09-10 23:28:26,930 - logger - INFO - Block Number: 20721640
+2024-09-10 23:28:26,930 - logger - INFO - Block Timestamp: 1725988583
+2024-09-10 23:28:26,931 - logger - INFO - Transaction Hash: aba86377b06a128893ac8ab44754e7ad296a59b39e4628a9afebc6e841263d6a
+2024-09-10 23:28:26,931 - logger - INFO - Sender Address (Pubkey): 0x44894aeEe56c2dd589c1D5C8cb04B87576967F97
+2024-09-10 23:28:26,931 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:28:26,931 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:27,569 - logger - INFO - Deposit Found:
+2024-09-10 23:28:27,569 - logger - INFO - Block Number: 20721821
+2024-09-10 23:28:27,569 - logger - INFO - Block Timestamp: 1725990755
+2024-09-10 23:28:27,569 - logger - INFO - Transaction Hash: bb395ffbdad4ff7b2f501e78965f619d81935130b054fd5b6bb4a5946957f430
+2024-09-10 23:28:27,569 - logger - INFO - Sender Address (Pubkey): 0x936842bb7c37f47BD1477529f932305462B80139
+2024-09-10 23:28:27,570 - logger - INFO - Amount (Fee): 32.0 Ether
+2024-09-10 23:28:27,570 - logger - INFO - ----------------------------------------
+2024-09-10 23:28:27,577 - logger - INFO - Updated ./logs/deposit_logs.json with 14 new deposits.
+2024-09-10 23:29:27,919 - logger - INFO - Fetching deposits from block 0x13c30b4 to 0x13c30be...
+2024-09-10 23:29:28,254 - logger - INFO - Fetched 0 logs from blocks 0x13c30b4 to 0x13c30be.
+2024-09-10 23:29:28,254 - logger - INFO - No new deposits found in the fetched logs.
